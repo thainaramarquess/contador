@@ -220,7 +220,7 @@ body{
   padding: 3rem;
   border-radius: 8px;
   margin: 0 auto;
-  width: 450px;
+  width: 350px;
   padding: 20px;
   margin-left: 15px;
   margin-right: 15px;
@@ -231,7 +231,7 @@ body{
 
 #value {
   font-size: 4rem;
-  min-width: 10rem;
+  min-width: 8rem;
   
 }
 
